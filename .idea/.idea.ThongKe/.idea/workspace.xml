@@ -9,149 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376acb96-5e7d-4c43-9383-ce269b5c1967" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ThongKe/.idea/data_source_mapping.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/COMPLETE_GUIDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/BangChiTieuController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/BangThongKeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/BieuDoController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/BieuMauController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/ChiTieuController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/CongBoController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/DonViController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/DuLieuBieuMauController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/DuLieuChiTieuController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/ImportController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/KieuBangThongKeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/NhapChiTieuController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/PhanTichChiTieuController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/CT/ThongTinBangController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/AuthController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/AuthorController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/DanhMucController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/DanhMucImportController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/DanhMucPublishController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/DonViThongKeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/KieuDanhMucController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/OrganizationsController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/PermissionsController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/RolesController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Controllers/DM/SendMailController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/DI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/DI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/DTOs/Create.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/DTOs/Create.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/DTOs/JobPayload.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/DTOs/JobPayload.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/DTOs/Query.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/DTOs/Query.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/DTOs/Response.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/DTOs/Response.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/EmailTemplates/PasswordResetEmail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/EmailTemplates/SendVerifyRegister.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Entities/AuthEntities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Entities/ChiTieuEntities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Entities/CongBoEntities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Entities/DanhMuc.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/FILTER_GUIDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251010092910_InitEntity.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251010092910_InitEntity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251010093112_UpdateEntity_2025_10_10_1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251010093112_UpdateEntity_2025_10_10_1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013021304_add role v1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013021304_add role v1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013022805_UpdateEntity_2025_10_13_1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013022805_UpdateEntity_2025_10_13_1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013035720_add permission v1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013035720_add permission v1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013080218_add permission v2.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251013080218_add permission v2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251015040232_add permission v3.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251015040232_add permission v3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016071731_add.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016071731_add.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016073617_add-Role Fix cung.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016073617_add-Role Fix cung.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016095631_fix_table.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016095631_fix_table.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016102139_create table cong bo 16_10.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251016102139_create table cong bo 16_10.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251017042452_fix role v4.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251017042452_fix role v4.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251017080628_dinh danh kieudanhmuc.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251017080628_dinh danh kieudanhmuc.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251017091719_create table CongBoGiaSanPhamNLTSChinh.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251017091719_create table CongBoGiaSanPhamNLTSChinh.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020030011_add MaDonVi.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020030011_add MaDonVi.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020070335_add CreateBy User.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020070335_add CreateBy User.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020075541_add TinhThanhId DonViThongKe.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020075541_add TinhThanhId DonViThongKe.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020082343_add table cong bo xuat khau.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251020082343_add table cong bo xuat khau.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251021042432_add TinhThanhId KieuDanhMuc.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251021042432_add TinhThanhId KieuDanhMuc.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251021083335_create table congboxuatkhau and cancanthuongmai.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251021083335_create table congboxuatkhau and cancanthuongmai.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251022074907_update chi tieu.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251022074907_update chi tieu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251022094934_update phien ban chi tieu.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251022094934_update phien ban chi tieu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251023031452_add KieuBangThongKE.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251023031452_add KieuBangThongKE.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251023095205_add members.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251023095205_add members.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024065750_add GiamSat donvithongke.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024065750_add GiamSat donvithongke.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024075415_UpdateEntity_2025_10_24.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024075415_UpdateEntity_2025_10_24.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024082250_UpdateEntity_2025_10_24_6.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024082250_UpdateEntity_2025_10_24_6.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024082424_UpdateEntity_2025_10_24_7.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251024082424_UpdateEntity_2025_10_24_7.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251028021821_UpdateEntity_2025_10_28_1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251028021821_UpdateEntity_2025_10_28_1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251028075852_add-kieudanhmuc v1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251028075852_add-kieudanhmuc v1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251028081826_add-makieu v1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251028081826_add-makieu v1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251029075332_add danh muc v3.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251029075332_add danh muc v3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030013748_UpdateEntity_2025_10_30_3.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030013748_UpdateEntity_2025_10_30_3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030015529_add-danh muc publish.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030015529_add-danh muc publish.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030034724_add-danh muc publish v1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030034724_add-danh muc publish v1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030042401_add danhmuc_publish v2.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030042401_add danhmuc_publish v2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030081540_add danhmuc_publish v4.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251030081540_add danhmuc_publish v4.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251103033410_edit_chitieu.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251103033410_edit_chitieu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251103033811_remove_tablename_of_chitieu.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/20251103033811_remove_tablename_of_chitieu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/README_Import_API.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/SampleData/CreateSampleExcel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Shared/QueryServices.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Shared/TableService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Shared/Utils/QueryUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Shared/Utils/StaticData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Shared/Utils/StatisticsUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Shared/Utils/Utils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/Shared/WorkerService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/Shared/WorkerService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/ThongKe.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/ThongKe.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/Debug/net9.0/ThongKe.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/ThongKe.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/ThongKe.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/ThongKe.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/ThongKe.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThongKe/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ThongKe/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="376acb96-5e7d-4c43-9383-ce269b5c1967" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,6 +18,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HuuHoai2002/EL.git",
+    "accountId": "5f91af40-261e-43ab-89e1-8b060a884852"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -172,6 +36,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
@@ -242,8 +107,25 @@
       <option name="presentableId" value="Default" />
       <updated>1762174750857</updated>
       <workItem from="1762174752395" duration="432000" />
-      <workItem from="1762175211355" duration="367000" />
+      <workItem from="1762175211355" duration="691000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: rename project">
+      <option name="closed" value="true" />
+      <created>1762175847412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762175847412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: rename project">
+      <option name="closed" value="true" />
+      <created>1762175886383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762175886383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +134,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="feat: rename project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: rename project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
