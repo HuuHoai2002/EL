@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "TargetStatistics.Modules.Target.TargetsController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Targets/delete/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TargetStatistics.Modules.Target.TargetsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Targets/get-all",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "TargetStatistics.Modules.Target.DTOs.TargetQueryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TargetStatistics.Modules.Target.TargetsController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/Targets/update-status",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "TargetStatistics.Modules.Target.DTOs.UpdateTargetStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TargetStatistics.Modules.Target.TargetsController",
+    "Method": "Upsert",
+    "RelativePath": "api/v1/Targets/upsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "TargetStatistics.Modules.Target.DTOs.CreateTargetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TargetStatistics.Modules.Target.TargetsController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Targets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
