@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KHCN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c1b21e6ca5c17e88e3fcf8b3ac0eafb177a63b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aa353cce3f99c718d065201d989cb3c608f1818")]
 [assembly: System.Reflection.AssemblyProductAttribute("KHCN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KHCN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,6 @@
-﻿using System.Security.Claims;
-using System.Text;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using OfficeOpenXml;
@@ -18,10 +14,10 @@ ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 #pragma warning disable CS0618 // Type or member is obsolete
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("OracleDbConnection");
-
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseOracle(connectionString));
+// var connectionString = builder.Configuration.GetConnectionString("OracleDbConnection");
+//
+// builder.Services.AddDbContext<AppDbContext>(options =>
+//     options.UseOracle(connectionString));
 
 builder.Services.AddServices();
 

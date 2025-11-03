@@ -9,47 +9,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376acb96-5e7d-4c43-9383-ce269b5c1967" name="Changes" comment="" />
+    <list default="true" id="376acb96-5e7d-4c43-9383-ce269b5c1967" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/KHCN/Modules/HealthCheck/HealthCheckController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KHCN/Services/BaseSevice.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ThongKe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ThongKe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/DTOs/Query.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/DTOs/Query.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/DTOs/Response.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/DTOs/Response.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/KHCN.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/KHCN.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/Shared/Constants.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/Shared/Constants.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/Shared/WorkerService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/Shared/WorkerService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/bin/Debug/net9.0/KHCN.dll" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/bin/Debug/net9.0/KHCN.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/bin/Debug/net9.0/KHCN.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/bin/Debug/net9.0/KHCN.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/KHCN.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/KHCN.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/KHCN.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/KHCN.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/KHCN/obj/Debug/net9.0/staticwebassets.build.json.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HuuHoai2002/EL.git",
-    "accountId": "5f91af40-261e-43ab-89e1-8b060a884852"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HuuHoai2002&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HuuHoai2002/EL.git&quot;,
+    &quot;accountId&quot;: &quot;5f91af40-261e-43ab-89e1-8b060a884852&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6fa05d7dbf2e454ce78b261b422234da1f1ccedee678fd997e5ef4afe6df6e/ControllerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KHCN/Modules/HealthCheck/HealthCheckController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KHCN/Services/BaseSevice.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="34y93mpV4DibFM07og5PUAOoAiH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.ThongKe: IIS Express.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Launch Settings Profile.ThongKe: http.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.ThongKe: IIS Express">
+}</component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.ThongKe: http">
     <configuration name="ThongKe: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/KHCN/KHCN.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net9.0" />
@@ -107,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762174750857</updated>
       <workItem from="1762174752395" duration="432000" />
-      <workItem from="1762175211355" duration="691000" />
+      <workItem from="1762175211355" duration="1620000" />
     </task>
     <task id="LOCAL-00001" summary="feat: rename project">
       <option name="closed" value="true" />
@@ -125,17 +165,27 @@
       <option name="project" value="LOCAL" />
       <updated>1762175886383</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: remove unused file">
+      <option name="closed" value="true" />
+      <created>1762175975552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762175975552</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat: rename project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: rename project" />
+    <MESSAGE value="feat: remove unused file" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: remove unused file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
