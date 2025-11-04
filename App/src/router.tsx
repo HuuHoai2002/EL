@@ -1,11 +1,14 @@
 import { createBrowserRouter } from "react-router";
+import HomePage from "./modules/home";
+import SignInPage from "./modules/sign-in";
 
 export const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello World</div>,
-    loader: async (e) => {
-      console.log("Loader called", e);
-    },
+    Component: HomePage,
+  },
+  {
+    path: "/sign-in",
+    Component: SignInPage,
   },
 ]);

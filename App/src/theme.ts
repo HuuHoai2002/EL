@@ -5,10 +5,9 @@ const config = defineConfig({
     tokens: {
       colors: {
         primary: { value: "#0FEE0F" },
-        secondary: { value: "#EE0F0F" },
       },
       fonts: {
-        body: { value: "system-ui, sans-serif" },
+        body: { value: "Roboto, sans-serif" },
       },
     },
   },
